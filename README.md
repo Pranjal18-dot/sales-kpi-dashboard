@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="GitHub_Banner_Pranjal.png" width="100%" />
+</p>
+
 # Sales KPI Dashboard – Excel Project
 
 This project contains a dynamic Excel-based KPI Dashboard that tracks quarterly sales performance, revenue, targets, customer growth, and CAC (Customer Acquisition Cost). 
